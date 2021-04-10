@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+	"zen_core",
+	"zen_plot",
+	"zen_viewer"
+]
