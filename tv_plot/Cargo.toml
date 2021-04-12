@@ -1,5 +1,5 @@
 [package]
-name = "zen_plot"
+name = "tv_plot"
 version = "0.1.0"
 authors = ["Xiaojun Gao <gaoxiaojun@gmail.com>"]
 edition = "2018"

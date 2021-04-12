@@ -2,6 +2,6 @@
 
 members = [
 	"zen_core",
-	"zen_plot",
+	"tv_plot",
 	"zen_viewer"
 ]
